@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-routing/static/css/main.05139830.chunk.css",
+    "main.css": "/react-routing/static/css/main.a044c5b4.chunk.css",
     "main.js": "/react-routing/static/js/main.d6419226.chunk.js",
     "main.js.map": "/react-routing/static/js/main.d6419226.chunk.js.map",
     "runtime-main.js": "/react-routing/static/js/runtime-main.1d86498f.js",
@@ -8,9 +8,9 @@
     "static/js/2.95b6e8bb.chunk.js": "/react-routing/static/js/2.95b6e8bb.chunk.js",
     "static/js/2.95b6e8bb.chunk.js.map": "/react-routing/static/js/2.95b6e8bb.chunk.js.map",
     "index.html": "/react-routing/index.html",
-    "precache-manifest.33f488b23af09a4b93567f57400eb7e0.js": "/react-routing/precache-manifest.33f488b23af09a4b93567f57400eb7e0.js",
+    "precache-manifest.495e4f1ee2a6fcb440cc7d06dc0c556d.js": "/react-routing/precache-manifest.495e4f1ee2a6fcb440cc7d06dc0c556d.js",
     "service-worker.js": "/react-routing/service-worker.js",
-    "static/css/main.05139830.chunk.css.map": "/react-routing/static/css/main.05139830.chunk.css.map",
+    "static/css/main.a044c5b4.chunk.css.map": "/react-routing/static/css/main.a044c5b4.chunk.css.map",
     "static/js/2.95b6e8bb.chunk.js.LICENSE.txt": "/react-routing/static/js/2.95b6e8bb.chunk.js.LICENSE.txt",
     "static/media/company_logo.png": "/react-routing/static/media/company_logo.25cf1a1f.png",
     "static/media/intensel.png": "/react-routing/static/media/intensel.0f01b70f.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.1d86498f.js",
     "static/js/2.95b6e8bb.chunk.js",
-    "static/css/main.05139830.chunk.css",
+    "static/css/main.a044c5b4.chunk.css",
     "static/js/main.d6419226.chunk.js"
   ]
 }

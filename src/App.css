@@ -41,3 +41,10 @@
     margin-left: 10px;
   }
 }
+
+@media (max-width: 768px) {
+  .app__left > img {
+    width: 250px;
+    height: 200px;
+  }
+}
